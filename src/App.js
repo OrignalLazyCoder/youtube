@@ -25,7 +25,7 @@ class App extends Component {
             params: {
               part: "snippet",
               maxResults: 5,
-              key: 'AIzaSyCj-Y5YT9_0lsxjo3NFLsJUeN2CnoTa4lI',
+              key: {Your YOUTUBE api},
               q: searchTerm,
             }
           });
